@@ -79,7 +79,7 @@ Run the rest of the cells (use 'shift' + 'enter' to run a cell). Data will be au
 
 #### Option 2: Local Curation Script
 
-Download the [Google Speech Commnads dataset](http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz).
+Download the [Google Speech Commands dataset](http://download.tensorflow.org/data/speech_commands_v0.02.tar.gz).
 
 Install [Python](https://www.python.org/) on your computer. Use *pip* to install the following packages:
 * numpy
